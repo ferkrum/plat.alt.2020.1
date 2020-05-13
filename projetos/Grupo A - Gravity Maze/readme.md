@@ -1,3 +1,4 @@
-Adicionar os nomes dos componentes do grupo aqui !
-
-
+Eduardo Zwetsch
+Hugo Basso
+Rodrigo Zwetsch
+Vitória Ramos
