@@ -6,7 +6,7 @@ Esta atividade acadêmica faz parte do curso de [Jogos Digitais da Unisinos](htt
 
 ## Lista de Projetos:
 * [Grupo A: Gravity Maze](https://github.com/ferkrum/platAlt2020.1/wiki/Grupo-A%3A-Gravity-Maze) | [Vídeo](https://youtu.be/x1nT7drDKWo). [Concept Doc]().
-* [Grupo B: Shoot Saber](https://github.com/ferkrum/platAlt2020.1/wiki/Grupo-B:-Shoot-Saber) | [Vídeo](https://youtu.be/c_K2CHH04UM). Concept Doc! Teste
+* [Grupo B: Shoot Saber](https://github.com/ferkrum/platAlt2020.1/wiki/Grupo-B:-Shoot-Saber) | [Vídeo](https://youtu.be/c_K2CHH04UM). Concept Doc.
 * [Grupo C: Tank War Drawing]() | [Vídeo](https://www.loom.com/share/ff7b07273a1c401d913f46a72db2992f). Concept Doc.
 * [Grupo D: Pigeon Delivery]() | [Vídeo](https://www.loom.com/share/a507cdfe5b8c4ab9aeee9485669b45da). Concept Doc.
 * [Grupo E: Spaceship Warrior]() | [Vídeo](https://youtu.be/HUWjxQZdo7o). Concept Doc.
