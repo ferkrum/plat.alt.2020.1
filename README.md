@@ -14,8 +14,9 @@ Os desenvolvimento dos projetos está listado na página [Wiki](https://github.c
 * S14
 * S15
 * S16
-* S17
-* S18
-* S19
+* S17 - 
+* S18 - Entrega de notas e Divulgação do Projeto (itch.io) // Procurar por tags "altctrl", "arduino"
+  * Exemplo: https://llucile.itch.io/poseidon
+* S19 - GC
 
 
