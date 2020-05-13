@@ -7,5 +7,15 @@ Esta atividade acadêmica faz parte do curso de [Jogos Digitais da Unisinos](htt
 Os desenvolvimento dos projetos está listado na página [Wiki](https://github.com/ferkrum/plat.alt.2020.1/wiki) desse repositório.
 
 
-Teste de alterar página 13/maio/2020. 17h.
+## Cronograma de desenvolvimento:
+* S11
+* S12
+* S13
+* S14
+* S15
+* S16
+* S17
+* S18
+* S19
+
 
