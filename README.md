@@ -8,15 +8,15 @@ Os desenvolvimento dos projetos está listado na página [Wiki](https://github.c
 
 
 ## Cronograma de desenvolvimento:
-* S11
-* S12
-* S13
-* S14
-* S15
-* S16
-* S17 - 
+* S09 - Entrega concept doc + apresentação (vídeo) + feedbacks dos colegas !
+* S10 - Orientações e resoluções de dúvidas. Github.
+* S11 - Orientações e resoluções de dúvidas. Github Integração c/ Slack. Criar cronograma de desenvolvimento e atividades para cada grupo. Log de desenvolvimento.
+* S12 - Entrega Design Doc completo (de acordo com modelo do Prof. Maurício)
+* S13 - 
+* S14 - Versão Beta + playtest.
+* S15 - 
+* S16 - 
+* S17 - Apresentação Versão Completa polida. Submissão do Projeto p/ *ctrl.alt.Unisinos*.
 * S18 - Entrega de notas e Divulgação do Projeto (itch.io) // Procurar por tags "altctrl", "arduino"
   * Exemplo: https://llucile.itch.io/poseidon
 * S19 - GC
-
-
