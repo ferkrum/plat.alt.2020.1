@@ -4,7 +4,14 @@ Esta página reúne informações sobre a Atividade Acadêmica de "_Projeto de J
 Esta atividade acadêmica faz parte do curso de [Jogos Digitais da Unisinos](https://www.unisinos.br/vestibular/curso/jogos-digitais/porto-alegre) ([IG](https://www.instagram.com/jogosdigitaisunisinos/)). 
 
 
-Os desenvolvimento dos projetos está listado na página [Wiki](https://github.com/ferkrum/plat.alt.2020.1/wiki) desse repositório.
+## Lista de Projetos:
+* [[Grupo A: Gravity Maze]] | [Vídeo](https://youtu.be/x1nT7drDKWo). Concept Doc.
+* [[Grupo B: Shoot Saber]] | [Vídeo](https://youtu.be/c_K2CHH04UM). Concept Doc.
+* [[Grupo C: Tank War Drawing]] | [Vídeo](https://www.loom.com/share/ff7b07273a1c401d913f46a72db2992f). Concept Doc.
+* [[Grupo D: Pigeon Delivery]] | [Vídeo](https://www.loom.com/share/a507cdfe5b8c4ab9aeee9485669b45da). Concept Doc.
+* [[Grupo E: Spaceship Warrior]] | [Vídeo](https://youtu.be/HUWjxQZdo7o). Concept Doc.
+
+Mais detalhes sobre o desenvolvimento dos projetos poderá ser encontrado na página [Wiki](https://github.com/ferkrum/plat.alt.2020.1/wiki) desse repositório.
 
 
 ## Cronograma de desenvolvimento:
