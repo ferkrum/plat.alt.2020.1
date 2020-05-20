@@ -18,7 +18,8 @@ Mais detalhes sobre o desenvolvimento dos projetos poderá ser encontrado na pá
 * S09 - Entrega concept doc + apresentação (vídeo) + feedbacks dos colegas !
 * S10 - Orientações e resoluções de dúvidas. Github.
 * S11 - Orientações e resoluções de dúvidas. Github Integração c/ Slack. Criar cronograma de desenvolvimento e atividades para cada grupo. Log de desenvolvimento.
-* S12 - Entrega Design Doc completo (de acordo com modelo do documento do Prof. Maurício)
+* S12 - Atualizar github! 
+  * Entrega Design Doc completo (de acordo com modelo do documento do Prof. Maurício)
 * S13 - 
 * S14 - Versão Beta + playtest.
 * S15 - 
