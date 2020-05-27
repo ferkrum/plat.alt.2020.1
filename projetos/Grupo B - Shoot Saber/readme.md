@@ -1,1 +1,1 @@
-Quem são os componentes do grupo??
+Grupo: Gabriel Borges, Guilherme Gnoatto, Giovanne Crepaldi e Matheus Ferrão
