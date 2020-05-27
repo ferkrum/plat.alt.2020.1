@@ -1,0 +1,11 @@
+Nesta pasta:
+
+  -Temos o projeto da Unity, com tudo junto.
+  -O projeto contém tudo como, scripts, sprites, áudio...
+  ------------------------------------------------------------
+  
+  O script ArduinoController, possui toda a comunicação(com o Arduino) por parte da unity.
+  Os outros scripts são outras features.
+  
+  Scripts explicados com mais detalhes nos vídeos de desenvolvimento.
+teste
