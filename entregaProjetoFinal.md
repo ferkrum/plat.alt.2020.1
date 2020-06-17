@@ -1,4 +1,4 @@
-##Projeto final Plataformas Alternativas (ed 2020.1 - POA)
+## Projeto final Plataformas Alternativas (ed 2020.1 - POA)
 
 Os seguintes ítens são levados em conta na composição da entrega do Grau B:
 
