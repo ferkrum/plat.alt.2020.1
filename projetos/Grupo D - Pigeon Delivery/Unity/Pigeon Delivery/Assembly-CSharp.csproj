@@ -57,8 +57,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\ArduinoCMenu.cs" />
     <Compile Include="Assets\Scripts\ArduinoController.cs" />
     <Compile Include="Assets\Scripts\DifferentEnemy.cs" />
+    <Compile Include="Assets\Scripts\FakeEnemyMenu.cs" />
+    <Compile Include="Assets\Scripts\MenuContoller.cs" />
+    <Compile Include="Assets\Scripts\MenuHelper.cs" />
     <Compile Include="Assets\Scripts\Obstacles.cs" />
     <Compile Include="Assets\Scripts\Parallax.cs" />
     <Compile Include="Assets\Scripts\StartController.cs" />
