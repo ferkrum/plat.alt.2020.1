@@ -20,10 +20,10 @@ Mais detalhes sobre o desenvolvimento dos projetos poderá ser encontrado na pá
 * S11 - Orientações e resoluções de dúvidas. Github Integração c/ Slack. Criar cronograma de desenvolvimento e atividades para cada grupo. Log de desenvolvimento.
 * S12 - Atualizar github! 
   * Entrega Design Doc completo (de acordo com modelo do documento do Prof. Maurício)
-* S13 - 
+* S13 - Acompanhamento de projeto. 
 * S14 - Versão Beta + playtest.
-* S15 - 
-* S16 - 
+* S15 - Acompanhamento de projeto. 
+* S16 - Acompanhamento de projeto.
 * S17 - Apresentação Versão Completa polida. Submissão do Projeto p/ **ctrl.alt.Unisinos**.
 * S18 - Entrega de notas e Divulgação do Projeto (itch.io) // Procurar por tags "altctrl", "arduino"
   * Exemplo: https://llucile.itch.io/poseidon
