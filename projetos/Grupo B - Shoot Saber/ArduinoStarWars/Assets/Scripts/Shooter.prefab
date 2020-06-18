@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8909937316195820239}
   - component: {fileID: 114333468295129860}
+  - component: {fileID: 135537389797662524}
   m_Layer: 0
   m_Name: Shooter
   m_TagString: Shot
@@ -45,3 +46,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 6552751359279118014, guid: 072b9239090e32740a2a90c773fbb3f4, type: 3}
   shoot: {fileID: 2169011403938371347, guid: 82322a6ab35b3a74591a9adbb71909dc, type: 3}
+--- !u!135 &135537389797662524
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8370954067110591068}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}

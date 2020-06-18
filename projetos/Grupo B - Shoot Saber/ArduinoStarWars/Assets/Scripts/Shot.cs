@@ -10,7 +10,7 @@ public class Shot : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        red = true;
+     
         launch = false;
         GetComponent<Rigidbody>().useGravity = false;
     }
