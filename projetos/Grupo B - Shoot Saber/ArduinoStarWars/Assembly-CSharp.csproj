@@ -73,12 +73,12 @@
     <Compile Include="Assets\Ardity\Scripts\Threads\SerialThreadLines.cs" />
     <Compile Include="Assets\Scripts\HUD.cs" />
     <Compile Include="Assets\Scripts\LightSaber.cs" />
-    <Compile Include="Assets\Scripts\LightSaberTrigger.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\Shooteer.cs" />
     <Compile Include="Assets\Scripts\Shot.cs" />
     <Compile Include="Assets\Scripts\Turrets.cs" />
     <Compile Include="Assets\Scripts\UpPlataform.cs" />
+    <None Include="Assets\SkySerie Freebie\Hdri setup.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/gabri/OneDrive/Documents/GitHub/ArduinoStarWars/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

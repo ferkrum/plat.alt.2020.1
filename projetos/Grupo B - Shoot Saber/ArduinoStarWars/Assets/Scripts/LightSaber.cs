@@ -7,27 +7,91 @@ using System.IO.Ports;
 public class LightSaber : MonoBehaviour
 {
     int rotationZ;
-    bool red;
+    string arduino;
+    string[] arduinoMessages;
+    
+    public bool red, button;
     public int points;
+
+    private int _button;
+    private float _potenciometer;
+    private float _leftMax = 0, _rightMax = 360;
+    private bool right;
+    public bool _isAdjusted;
     // Start is called before the first frame update
     void Start()
     {
-
+        _isAdjusted = false;
+        right = true;
+        button = false;
+        red = true;
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
+        char[] splitChar = { ' ' };
+        arduino = GetComponent<SerialController>().ReadSerialMessage();
         rotationZ = System.Convert.ToInt32(GetComponent<SerialController>().ReadSerialMessage());
-        transform.eulerAngles = new Vector3(0, 0, -rotationZ + 85);
-        Debug.Log(rotationZ.ToString() + "DALEEE");
-        if (Input.GetKey(KeyCode.A))
+        arduinoMessages = arduino.Split(splitChar);
+
+        //Debug.Log(arduinoMessages[1] + "POTENCIOMETRO");
+       // Debug.Log( "botao" + arduinoMessages[0]);
+
+        _potenciometer = System.Convert.ToInt32(arduinoMessages[1]) - 90;
+        
+        if (_isAdjusted)
         {
-            transform.Rotate(Vector3.forward * 100 * Time.deltaTime);
+            float angle = Mathf.Lerp(_leftMax, _rightMax, _potenciometer);
+            transform.eulerAngles = new Vector3(0, 0, angle);
+            Debug.Log(angle + "DALEEE");
         }
-        if (Input.GetKey(KeyCode.D))
+        else
         {
-            transform.Rotate(-Vector3.forward * 100 * Time.deltaTime);
+            
+            transform.eulerAngles = new Vector3(0, 0,_potenciometer );
+            adjustSensibility();
+        }
+       
+        _button = System.Convert.ToInt32(arduinoMessages[0]);
+        if (_button == 1)
+        {
+            red = false;
+        }
+        else
+        {
+            red = true;
+
+        }
+
+
+        
+        //if (Input.GetKey(KeyCode.A))
+        //{
+        //    transform.Rotate(Vector3.forward * 100 * Time.deltaTime);
+        //}
+        //if (Input.GetKey(KeyCode.D))
+        //{
+        //    transform.Rotate(-Vector3.forward * 100 * Time.deltaTime);
+        //}
+       
+    }
+
+    public void adjustSensibility()
+    {
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            if (right)
+            {
+                _rightMax = _potenciometer;
+                right = false;
+            }
+            else
+            {
+                _leftMax = _potenciometer;
+                right = true;
+                _isAdjusted = true;
+            }
         }
     }
 
@@ -35,10 +99,14 @@ public class LightSaber : MonoBehaviour
     {
         if (other.gameObject.tag == "Shot")
         {
+            
+           
             if (other.gameObject.GetComponent<Shot>().red == red)
             {
-                Destroy(other.gameObject);
+                Debug.Log("COLIDIU BOLINHA");
                 points++;
+                Destroy(other.gameObject);
+                
             }
         }
     }
