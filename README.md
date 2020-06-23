@@ -24,7 +24,7 @@ Mais detalhes sobre o desenvolvimento dos projetos poderá ser encontrado na pá
 * S14 - Versão Beta + playtest.
 * S15 - Acompanhamento de projeto. 
 * S16 - Acompanhamento de projeto.
-* S17 - Apresentação Versão Completa polida. Submissão do Projeto p/ **ctrl.alt.Unisinos**.
+* S17 - Apresentação Versão Completa polida. Submissão do Projeto p/ **ctrl.alt.Unisinos**. [INSTRUÇÕES Entrega projeto final](entregaProjetoFinal.md)
 * S18 - Entrega de notas e Divulgação do Projeto (itch.io) // Procurar por tags "altctrl", "arduino"
   * Exemplo: https://llucile.itch.io/poseidon
 * S19 - GC
