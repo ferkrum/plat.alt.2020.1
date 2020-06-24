@@ -30,6 +30,7 @@ Arte: Christiano. W
 * [Vídeo 3 - Parte 3](https://www.loom.com/share/0e451908c99d4d4189868b53c1b33673)
 * [Vídeo 4 - Parte 4](https://www.loom.com/share/edd58d72a1604145a3c83b3f590fa24b)
 * [Vídeo 5 - Parte 5](https://www.loom.com/share/3935a13b027546f383aee7336625f04c)
+* [Vídeo 6 - Parte 6](https://www.loom.com/share/33e78566ddbc4cbfad693f20bac761c6)
 
 ## Documentos:
 
