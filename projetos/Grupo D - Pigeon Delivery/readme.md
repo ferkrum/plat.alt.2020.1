@@ -4,10 +4,15 @@ Grupo D:
 * Luiz Roupinha
 ------------------------------------------------------------------------------------
 # Pigeon Delivery
-
+<p align="center">
 <img src="https://github.com/ferkrum/platAlt2020.1/blob/master/projetos/Grupo%20D%20-%20Pigeon%20Delivery/Arte/Final.png">
+</p>
+
 
 ## Sobre:
+<p align="center">
+<img src="https://img.itch.zone/aW1hZ2UvNjgwMDMwLzM3MzU5NDcucG5n/original/KaiWY9.png">
+</p>
 <p>Projeto realizado para o curso de Jogos Digitais - Unisinos - RS
    
    Pigeon Delivery é um jogo de aventura, 2D estilo plataforma, onde o jogador deve fazer mais entregas que os inimigos os <em>drones</em>.
@@ -33,6 +38,27 @@ Arte: Christiano. W
 * [Vídeo 4 - Parte 4](https://www.loom.com/share/edd58d72a1604145a3c83b3f590fa24b)
 * [Vídeo 5 - Parte 5](https://www.loom.com/share/3935a13b027546f383aee7336625f04c)
 * [Vídeo 6 - Parte 6](https://www.loom.com/share/33e78566ddbc4cbfad693f20bac761c6)
+
+## Imagens:
+
+<p align="center">
+<img src="https://github.com/ferkrum/platAlt2020.1/blob/master/projetos/Grupo%20D%20-%20Pigeon%20Delivery/Images/IMG01.jpeg">
+</p>
+<p align="center">
+<img src="https://github.com/ferkrum/platAlt2020.1/blob/master/projetos/Grupo%20D%20-%20Pigeon%20Delivery/Images/IMG03.jpeg">
+</p>
+
+<p align="center">
+<img src="https://github.com/ferkrum/platAlt2020.1/blob/master/projetos/Grupo%20D%20-%20Pigeon%20Delivery/Images/IMG04.jpeg">
+</p>
+
+<p align="center">
+<img src="https://github.com/ferkrum/platAlt2020.1/blob/master/projetos/Grupo%20D%20-%20Pigeon%20Delivery/Images/img%2008.jpeg">
+</p>
+
+<p align="center">
+<img src="https://github.com/ferkrum/platAlt2020.1/blob/master/projetos/Grupo%20D%20-%20Pigeon%20Delivery/Images/tinkercad.png">
+</p>
 
 ## Documentos:
 
