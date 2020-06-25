@@ -12,7 +12,7 @@ public class LightSaber : MonoBehaviour
     
     public bool red, button;
     public int points;
-
+    public GameObject redSaber, greenSaber;
     private int _button;
     private float _potenciometer;
     private float _leftMax = 0, _rightMax = 360;
@@ -49,7 +49,7 @@ public class LightSaber : MonoBehaviour
         else
         {
             
-            transform.eulerAngles = new Vector3(0, 0,_potenciometer );
+            transform.eulerAngles = new Vector3(0, 90,_potenciometer );
             adjustSensibility();
         }
        
@@ -57,11 +57,15 @@ public class LightSaber : MonoBehaviour
         if (_button == 1)
         {
             red = false;
+            greenSaber.SetActive(true);
+            redSaber.SetActive(false);
+           
         }
         else
         {
             red = true;
-
+            greenSaber.SetActive(false);
+            redSaber.SetActive(true);
         }
 
 
@@ -91,6 +95,7 @@ public class LightSaber : MonoBehaviour
                 _leftMax = _potenciometer;
                 right = true;
                 _isAdjusted = true;
+                GameEvents.Current.PlayerIsReady();
             }
         }
     }
