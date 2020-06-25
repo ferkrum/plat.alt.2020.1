@@ -4,7 +4,8 @@ Grupo D:
 * Luiz Roupinha
 ------------------------------------------------------------------------------------
 # Pigeon Delivery
-![projetos/Grupo D - Pigeon Delivery/Arte/Final.png]
+
+<img src="https://github.com/ferkrum/platAlt2020.1/blob/master/projetos/Grupo%20D%20-%20Pigeon%20Delivery/Arte/Final.png">
 
 ## Sobre:
 <p>Projeto realizado para o curso de Jogos Digitais - Unisinos - RS
