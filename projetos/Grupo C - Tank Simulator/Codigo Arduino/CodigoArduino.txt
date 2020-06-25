@@ -1,0 +1,44 @@
+int botao = 4;
+int botao2 = 3;
+int botao3 = 0;
+int pot; 
+int bot1Status, bot2Status, bot3Status;
+String espaco = ",", r = "R", b1 = "A", b2 = "B", b3= "C";
+
+void setup()
+{
+  Serial.begin(9600);
+  pinMode (botao, OUTPUT);
+  digitalWrite(botao, LOW);
+  pinMode (botao2, OUTPUT);
+  digitalWrite(botao2, LOW);
+  pinMode (botao3, OUTPUT);
+  digitalWrite(botao3, LOW);
+}
+
+void loop()
+{ 
+  pot = analogRead(A5);
+  Serial.println(r + pot + espaco + b1 + bot1Status + espaco + b2 + bot2Status + espaco + b3 + bot3Status); //ROTACAO, ESPACO, BOTAO1, ESPACO, BOTAO2
+  delay(20); 
+
+if(digitalRead(botao) == HIGH){
+  bot1Status = 1;
+}
+if(digitalRead(botao) == LOW){
+  bot1Status = 0;
+}
+if(digitalRead(botao2) == HIGH){
+  bot2Status = 1;
+}
+if(digitalRead(botao2) == LOW){
+  bot2Status = 0;
+}
+if(digitalRead(botao3) == HIGH){
+  bot3Status = 1;
+}
+if(digitalRead(botao3) == LOW){
+  bot3Status = 0;
+}
+
+}
