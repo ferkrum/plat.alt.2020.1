@@ -1,0 +1,8 @@
+{
+  "name": "com.coimbrastudios.dots.physics",
+  "displayName": "Coimbra DOTS Physics",
+  "author": "Bruno Coimbra",
+  "version": "0.1.0-preview",
+  "unity": "2019.4",
+  "type": "tool"
+}

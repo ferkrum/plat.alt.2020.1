@@ -1,0 +1,52 @@
+{
+    "name": "InputActions",
+    "maps": [
+        {
+            "name": "Gameplay",
+            "id": "36e5e4f6-3870-4dd1-8246-0d3fdf39564f",
+            "actions": [
+                {
+                    "name": "Aim",
+                    "type": "Value",
+                    "id": "08ea9608-db3a-4dbd-ae3b-10e6f1037c9c",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Fire",
+                    "type": "Button",
+                    "id": "0c44fe9f-3712-4e99-a4d6-882da37fc10b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "6df1cf4a-e144-4a78-a4d3-4602404f5d2d",
+                    "path": "<Mouse>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Aim",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "637aa14d-0e9d-44f8-907e-2bdbcf67bc09",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Fire",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
