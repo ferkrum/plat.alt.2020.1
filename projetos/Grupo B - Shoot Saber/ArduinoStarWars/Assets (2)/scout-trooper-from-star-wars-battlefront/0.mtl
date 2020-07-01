@@ -1,0 +1,41 @@
+# Blender MTL File: 'ModelRenderLighting.blend'
+# Material Count: 3
+
+newmtl 4_Body
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.714997 0.510304 0.723374
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd t_imperial_scoutrooper_male_01_body_c.TGA
+map_Bump t_imperial_scoutrooper_male_01_body_n.TGA
+map_d t_imperial_scoutrooper_male_01_body_c.TGA
+
+newmtl 4_Glove
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.688789 0.635907 0.594792
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd t_imperial_scoutrooper_male_01_glove_c.TGA
+map_Bump t_imperial_scoutrooper_male_01_glove_n.TGA
+map_d t_imperial_scoutrooper_male_01_glove_c.TGA
+
+newmtl 4_Hemlet
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.558169 0.790448 0.460871
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd t_imperial_scoutrooper_male_01_hemlet_c.TGA
+map_Bump t_imperial_scoutrooper_male_01_hemlet_n.TGA
+map_d t_imperial_scoutrooper_male_01_hemlet_c.TGA
