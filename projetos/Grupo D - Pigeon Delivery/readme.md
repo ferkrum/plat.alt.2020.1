@@ -38,6 +38,23 @@ Arte: Christiano. W
 * [Vídeo 4 - Parte 4](https://www.loom.com/share/edd58d72a1604145a3c83b3f590fa24b)
 * [Vídeo 5 - Parte 5](https://www.loom.com/share/3935a13b027546f383aee7336625f04c)
 * [Vídeo 6 - Parte 6](https://www.loom.com/share/33e78566ddbc4cbfad693f20bac761c6)
+## Lista de Itens:
+<ul>
+   <li>Bola de isopor - 1x</li>
+   <li>Folha de floamboard (Papel Pluma) - 4x</li>
+   <li>Spray - cor cobre - 2x</li>
+   <li>Fita adesiva - 1x</li>
+   <li>Cola de isopor - 1x</li>
+   <li>Palito de dente - 1x</li>
+   
+   <li>Protoboard</li>
+   <li>Arduino UNO</li>
+   <li>Sensor Ultrassônco HC-SR04 - 2x</li>
+   <li>Sensor de som KY-038 - 1x</li>
+   <li>LED branco - 1x</li>
+   <li>Cabos Macho/Femea - 20x</li>
+   <li>Jumper Macho/Macho</li>
+</ul>
 
 ## Imagens:
 
