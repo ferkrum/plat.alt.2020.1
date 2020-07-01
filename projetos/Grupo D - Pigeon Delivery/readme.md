@@ -46,6 +46,7 @@ Arte: Christiano. W
    <li>Fita adesiva - 1x</li>
    <li>Cola de isopor - 1x</li>
    <li>Palito de dente - 1x</li>
+   <li>Cartolina - 1x</li>
    
    <li>Protoboard</li>
    <li>Arduino UNO</li>
