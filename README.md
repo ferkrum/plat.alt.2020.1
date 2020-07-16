@@ -5,11 +5,11 @@ Esta atividade acadêmica faz parte do curso de [Jogos Digitais da Unisinos](htt
 
 
 ## Lista de Projetos:
-* [Grupo A: Gravity Maze](https://github.com/ferkrum/platAlt2020.1/wiki/Grupo-A%3A-Gravity-Maze) | [Vídeo](https://youtu.be/x1nT7drDKWo). [Concept Doc](https://github.com/ferkrum/platAlt2020.1/blob/master/projetos/Grupo%20A%20-%20Gravity%20Maze/DesignDocGravityMaze.pdf). [itch.io](https://edu060.itch.io/gravity-maze).
-* [Grupo B: Shoot Saber](https://github.com/ferkrum/platAlt2020.1/wiki/Grupo-B:-Shoot-Saber) | [Vídeo](https://youtu.be/c_K2CHH04UM). [Concept Doc](https://github.com/ferkrum/platAlt2020.1/blob/master/projetos/Grupo%20B%20-%20Shoot%20Saber/Concept%20Doc..pdf). [itch.io](https://gabrielgborges.itch.io/shoot-saber).
-* [Grupo C: Tank War Drawing](https://github.com/ferkrum/platAlt2020.1/wiki/Grupo-C:-Tank-War-Drawing) | [Vídeo](https://www.loom.com/share/ff7b07273a1c401d913f46a72db2992f). [Concept Doc](https://docs.google.com/document/d/16Fr5Hq6yhNzkh1SKmf79JJ2--jInuyC2TWLyvO5Xh_w/edit?usp=sharing). [itch.io](https://thicosta1995gmailcom.itch.io/tank-war-drawing).
-* [Grupo D: Pigeon Delivery](https://github.com/ferkrum/platAlt2020.1/wiki/Grupo-D%3A-Pigeon-Delivery) | [Vídeo](https://www.loom.com/share/a507cdfe5b8c4ab9aeee9485669b45da). [Concept Doc](https://github.com/ferkrum/platAlt2020.1/blob/master/projetos/Grupo%20D%20-%20Pigeon%20Delivery/Concept%20-%20Pigeon%20Delivery.pdf). [itch.io](https://bugnature.itch.io/pigeon-delivery)
-* [Grupo E: Spaceship Warrior](https://github.com/ferkrum/platAlt2020.1/wiki/Grupo-E%3A-Spaceship-Warrior) | [Vídeo](https://youtu.be/HUWjxQZdo7o). [Concept Doc](https://drive.google.com/file/d/1Hd7RlQXi7nEVK2w7AS5wsfRd-CRaRx_-/view?usp=sharing). [itch.io](https://projetogb.itch.io/spaceshipwarrior).
+* [Grupo A: Gravity Maze](https://github.com/ferkrum/platAlt2020.1/wiki/Grupo-A%3A-Gravity-Maze) | [Vídeo Gameplay](https://youtu.be/AgdwyKizZe0). [itch.io](https://edu060.itch.io/gravity-maze).
+* [Grupo B: Shoot Saber](https://github.com/ferkrum/platAlt2020.1/wiki/Grupo-B:-Shoot-Saber) | [Vídeo Gameplay](https://www.youtube.com/watch?v=U9IKymbFw2U&feature=youtu.be). [itch.io](https://gabrielgborges.itch.io/shoot-saber).
+* [Grupo C: Tank War Drawing](https://github.com/ferkrum/platAlt2020.1/wiki/Grupo-C:-Tank-War-Drawing) | [Vídeo gameplay](https://youtu.be/U9IKymbFw2U). [itch.io](https://thicosta1995gmailcom.itch.io/tank-war-drawing).
+* [Grupo D: Pigeon Delivery](https://github.com/ferkrum/platAlt2020.1/wiki/Grupo-D%3A-Pigeon-Delivery) | [Vídeo gameplay](https://www.youtube.com/watch?v=RMRuKr5Q_Xo&feature=emb_title). [itch.io](https://bugnature.itch.io/pigeon-delivery)
+* [Grupo E: Spaceship Warrior](https://github.com/ferkrum/platAlt2020.1/wiki/Grupo-E%3A-Spaceship-Warrior) | [Vídeo gameplay](https://www.youtube.com/watch?v=HTK1SUHw77U&feature=emb_title). [itch.io](https://projetogb.itch.io/spaceshipwarrior).
 
 Mais detalhes sobre o desenvolvimento dos projetos poderá ser encontrado na página [Wiki](https://github.com/ferkrum/plat.alt.2020.1/wiki) desse repositório.
 
