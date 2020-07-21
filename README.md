@@ -13,6 +13,8 @@ Esta atividade acadêmica faz parte do curso de [Jogos Digitais da Unisinos](htt
 
 Mais detalhes sobre o desenvolvimento dos projetos poderá ser encontrado na página [Wiki](https://github.com/ferkrum/plat.alt.2020.1/wiki) desse repositório.
 
+<img src="plat. alt. para github.jpg" width=600>
+
 
 ## Cronograma de desenvolvimento:
 * S09 - Entrega concept doc + apresentação (vídeo) + feedbacks dos colegas !
