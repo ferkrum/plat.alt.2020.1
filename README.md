@@ -3,6 +3,7 @@
 Esta página reúne informações sobre a Atividade Acadêmica de "_Projeto de Jogos Plataformas Alternativas - Edição 2020.1_", ministrada pelo prof. [Fernando Krum](http://www.ferkrum.com). 
 Esta atividade acadêmica faz parte do curso de [Jogos Digitais da Unisinos](https://www.unisinos.br/vestibular/curso/jogos-digitais/porto-alegre) ([IG](https://www.instagram.com/jogosdigitaisunisinos/)). 
 
+<img src="plat. alt. para github.jpg" width=700>
 
 ## Lista de Projetos:
 * [Grupo A: Gravity Maze](https://github.com/ferkrum/platAlt2020.1/wiki/Grupo-A%3A-Gravity-Maze) | [Vídeo Gameplay](https://youtu.be/AgdwyKizZe0). [itch.io](https://edu060.itch.io/gravity-maze).
@@ -12,8 +13,6 @@ Esta atividade acadêmica faz parte do curso de [Jogos Digitais da Unisinos](htt
 * [Grupo E: Spaceship Warrior](https://github.com/ferkrum/platAlt2020.1/wiki/Grupo-E%3A-Spaceship-Warrior) | [Vídeo gameplay](https://www.youtube.com/watch?v=HTK1SUHw77U&feature=emb_title). [itch.io](https://projetogb.itch.io/spaceshipwarrior).
 
 Mais detalhes sobre o desenvolvimento dos projetos poderá ser encontrado na página [Wiki](https://github.com/ferkrum/plat.alt.2020.1/wiki) desse repositório.
-
-<img src="plat. alt. para github.jpg" width=600>
 
 
 ## Cronograma de desenvolvimento:
