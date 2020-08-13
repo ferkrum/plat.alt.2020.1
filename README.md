@@ -3,6 +3,9 @@
 Esta página reúne informações sobre a Atividade Acadêmica de "_Projeto de Jogos Plataformas Alternativas - Edição 2020.1_", ministrada pelo prof. [Fernando Krum](http://www.ferkrum.com). 
 Esta atividade acadêmica faz parte do curso de [Jogos Digitais da Unisinos](https://www.unisinos.br/vestibular/curso/jogos-digitais/porto-alegre) ([IG](https://www.instagram.com/jogosdigitaisunisinos/)). 
 
+<img src="plat. alt. para github.jpg" width=700>
+
+O curso de Jogos digitais da Unisinos produziu um vídeo compilando dos projetos desenvolvidos no nosso semestre. Está disponível no canal do YT do curso [aqui](https://www.youtube.com/watch?v=h44G3Lw7yZg).
 
 ## Lista de Projetos:
 * [Grupo A: Gravity Maze](https://github.com/ferkrum/platAlt2020.1/wiki/Grupo-A%3A-Gravity-Maze) | [Vídeo Gameplay](https://youtu.be/AgdwyKizZe0). [itch.io](https://edu060.itch.io/gravity-maze).
